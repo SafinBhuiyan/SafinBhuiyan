@@ -1,6 +1,8 @@
 ![logo](https://github.com/SafinBhuiyan/SafinBhuiyan/blob/main/Hello%20There.png)
 <h1 align="center">Hi 🌸, I'm Safin.</h1>
-<h3 align="center">A passionate UI Designer from Dhaka, Bangladesh.</h3>
+<h3 align="center">A passionate Competitive Programmer and UI Designer from Dhaka, Bangladesh.</h3>
+
+<img align="right" alt="Rocket" width="380" src="https://i.pinimg.com/originals/32/ef/23/32ef2383a36df04a065b909ee0ac8688.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safinbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="safinbhuiyan" /> </p>
 
