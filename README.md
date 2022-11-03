@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safinbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="safinbhuiyan" /> </p>
 
-- 🌱 I’m currently learning **Web Dev, Competitive Programming and UI Design.**
+- 🌱 I’m currently learning **Web Dev, Competitive Programming<br>and UI Design.**
 
 - 💬 Ask me about **anything.**
 
