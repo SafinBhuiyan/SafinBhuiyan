@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🌸, I'm Safin.</h1>
 <h3 align="center">A passionate Competitive Programmer and UI Designer from Dhaka, Bangladesh.</h3>
 
-<img align="right" alt="Rocket" width="380" src="https://i.pinimg.com/originals/32/ef/23/32ef2383a36df04a065b909ee0ac8688.gif">
+<img align="right" alt="Rocket" width="380" src="https://github.com/SafinBhuiyan/SafinBhuiyan/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33322f65662f32332f33326566323338336133366466303461303635623930396565306163383638382e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safinbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="safinbhuiyan" /> </p>
 
