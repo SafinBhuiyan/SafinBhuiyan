@@ -1,4 +1,4 @@
-![logo](https://github.com/SafinBhuiyan/SafinBhuiyan/blob/main/Hello%20There.svg)
+![logo](https://github.com/SafinBhuiyan/SafinBhuiyan/blob/main/Hello%20There.gif)
 <h1 align="center">Hi 🌸, I'm Safin.</h1>
 <h3 align="center">A passionate Competitive Programmer and UI Designer from Dhaka, Bangladesh.</h3>
 
