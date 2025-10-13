@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safinbhuiyan&show_icons=true&locale=en" alt="safinbhuiyan" /></p>
 
-![snake gif](https://github.com/SafinBhuiyan/SafinBhuiyan/blob/output/github-contribution-grid-snake.gif)
